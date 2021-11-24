@@ -90,4 +90,48 @@ text-align: center;
     width: 250px;
     height: 80px;
     margin: auto;
+
 }
+#rectangle{
+    width:580px;
+    height:450px;
+    background:black;
+    margin: 100px;
+}
+
+#barre{
+    width:8.4%;
+    height:450px;
+    background:grey;
+    display: inline-block;
+
+
+}
+.scroller {
+  width: 50%;
+  height: 350px;
+  overflow-y: scroll;
+  scrollbar-width: thin;
+
+}
+#blanc{
+    color:white;
+}
+
+
+#bleu{
+    color:blue;
+}
+
+
+label {
+    font-size: 1rem;
+    
+}
+
+select {
+    font-size: .9rem;
+   
+}
+
+
